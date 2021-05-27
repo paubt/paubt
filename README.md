@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paubt
-- 👀 I’m interested in databases, statistics and economics
-- 🌱 I’m currently learning go and sqlite
+- 👀 I’m interested in statistics, economics and databases
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on you tell me!
 - 📫 How to reach me ...
