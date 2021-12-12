@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paubt
 - 👀 I’m interested in statistics, economics and evolutionary algorithms
-- 🌱 I’m currently learning time series analysis and imporoving my c++ and pyhton skills
+- 🌱 I’m currently learning time series analysis and imporoving my pyhton and rust skills
 - 💞️ I’m looking to collaborate on you tell me!
 - 📫 How to reach me ...
